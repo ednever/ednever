@@ -1,13 +1,13 @@
 <div id="header" align="center">
-  <h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
-  <img src="https://i.gifer.com/origin/6d/6d2ac6120bfcc9c81c4ac48612c61657_w200.gif" width="400"/>
-</div>
+  <h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>  
+  <img src="https://i.gifer.com/origin/6d/6d2ac6120bfcc9c81c4ac48612c61657_w200.gif" width="400"/>  
+</div><br>
 
 <div id="badges" align="center">
   <a href="https://soundcloud.com/nemo-shield">
     <img src="https://img.shields.io/badge/SoundCloud-orange?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud Badge"/>
   </a>
-</div>
+</div><br>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ednever&style=flat-square&color=blue" alt=""/>
 </div>
